@@ -1,6 +1,6 @@
 # Example Notebooks
-for _Hyperparameter optimization with Optuna_ article on Medium.com:
-https://medium.com/@piotrek.gabrys/hyperparameter-optimization-with-optuna-b56d490368af
+for _How to make your model awesome with Optuna_ article on Medium.com:
+https://medium.com/@piotrek.gabrys/how-to-make-your-model-awesome-with-optuna-b56d490368af
 
 # Requirements
 * Python 3.6.7
